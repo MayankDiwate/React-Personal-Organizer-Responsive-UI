@@ -12,7 +12,7 @@ const BodyContent = () => {
       </div>
       <img
         className="mt-40 sm:mt-0 h-[520px]"
-        src="src/assets/placeholder.png"
+        src="assets/placeholder.png"
       />
     </div>
   );

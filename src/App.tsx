@@ -13,7 +13,7 @@ function App() {
         {/* person */}
         <div className="bg-white absolute pb-4 pr-4 -top-0.5 -left-0.5 rounded-br-3xl">
           <img
-            src="src/assets/person.png"
+            src="assets/person.png"
             className="h-36 bg-primary rounded-2xl"
           />
         </div>
