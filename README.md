@@ -4,7 +4,7 @@ This project is a Personal Organizer Responsive UI built with Vite and React.
 
 ## Design Reference
 
-Link[https://dribbble.com/shots/24368507-Witt-Personal-Organizer-Web-Design]
+[https://dribbble.com/shots/24368507-Witt-Personal-Organizer-Web-Design]
 
 ## Technologies Used
 
